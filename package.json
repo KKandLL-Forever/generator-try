@@ -1,0 +1,11 @@
+{
+  "name": "generator-try",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wk",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "yeoman-generator": "^5.6.1"
+  }
+}
